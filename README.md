@@ -31,6 +31,12 @@ GITHUB_CLIENT_SECRET=
 JWT_SECRET=VALORALEATORIO 
 ```
 
+Caso queira visualizar seu banco de dados:
+```docker
+yarn prisma studio //Caso queira visualizar seu banco de dados
+```
+
+
 Adicione um valor que servirá de chave para o JWT_TOKEN, você pode utilizar o MD5 Generator. 
 
 Após isso, rode os seguintes comandos:
