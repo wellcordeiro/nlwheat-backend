@@ -56,5 +56,3 @@ O projeto estará escutando a porta 4000 (http://localhost:4000)
 Acesse seu Postman, clique em "Collections" após isso em "Import" > Link
 
 e cole este link para importar: [https://www.getpostman.com/collections/515846416c1a811546da](https://www.getpostman.com/collections/515846416c1a811546da)
-
-EDIT 1
